@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://raw.githubusercontent.com/ifprado/Udacity-Nanodegrees/master/Programming%20for%20Data%20Science%20with%20Python%20Nanodegree/certificate.pdf) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
